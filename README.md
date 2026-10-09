@@ -4,6 +4,13 @@ Sistema distribuido Cliente-Servidor sobre TCP/IP utilizando la tecnología **RM
 
 ---
 
+## 📹 Video Explicativo
+
+> 🔗 **Enlace de YouTube:** [Ver video explicativo](https://www.youtube.com/watch?v=TU_LINK_AQUI)  
+> *(Reemplazar con el enlace del video)*
+
+---
+
 ## 1. Estructura del Proyecto
 
 El sistema está organizado en tres proyectos modulares e independientes:
