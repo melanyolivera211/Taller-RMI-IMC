@@ -1,0 +1,8 @@
+# Archivos compilados intermedios
+bin/
+build/
+*.class
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
